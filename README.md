@@ -5,7 +5,7 @@ Proyecto desarrollado para la asignatura Procesamiento de Datos en Java — Inge
 Este proyecto fue desarrollado por:
 
 * Endy Espinoza - (https://github.com/joscl1703)
-* Yeiderson Sequera 
+* Yeiderson Sequera - (https://github.com/pongf456)
 * Gregory Orozco
 * Lenin Iguaran
   
